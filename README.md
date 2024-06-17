@@ -1,6 +1,4 @@
-### Hi there 👋
-
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=0cookieboy0)](https://solved.ac/profile/0cookieboy0)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=0cookieboy0)](https://solved.ac/0cookieboy0)
 
 <!--
 **pokycookie/pokycookie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
